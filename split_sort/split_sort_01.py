@@ -62,7 +62,7 @@ def split_list(jobs, downto):
             
         
 filename = 'jobs.csv'
-downto = 10 # go down to less then 20 left
+downto = 20 # go down to less then 20 left
 job_list = get_job_names(filename)
 job_list = split_list(job_list, downto)
 print("_____________")
