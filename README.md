@@ -11,3 +11,6 @@ A quick script designed to show the rising probablity of clashes as more and mor
 
 ## toward escher
 a quick script, a bit rough and brittle, that turns three lines into an escher rotational symmetry tiles form and plots it.
+
+## tunnel_simulator
+modelling the possible effect of steady vitirification/pore reduction on pore network, conneceivity and cul-de-sacs
