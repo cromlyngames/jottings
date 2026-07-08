@@ -1,6 +1,9 @@
 # jottings
 A repo for small, standalone scripts written to test or explain a point
 
+## booomerang
+vibe coded blenderpy script to generate parametric 3d boomerang meshes, for milling
+
 
 ## density_monte_carlo
 A quick script designed to show the rising probablity of clashes as more and more infrastrucutre is built
